@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## DIO Shopping - Messages
+
+Este projeto foi reproduzido atráves de Digital Inovation One, utilizando a APi [nathyts/api-dioshopping](https://github.com/nathyts/api-dioshopping).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
